@@ -1,0 +1,12 @@
+{
+  "name": "ultraviolet-railway",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@titaniumnetwork-dev/ultraviolet": "latest",
+    "express": "^4.18.2"
+  }
+}
